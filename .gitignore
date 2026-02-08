@@ -5,6 +5,9 @@ __pycache__/
 *.pkl
 *.zip
 *.log
-.venv
+.venv*
+.venv.*
 
 sandbox
+*~
+*.*~
